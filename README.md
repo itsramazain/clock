@@ -4,8 +4,4 @@ timing timing all about timing timing
 
 
 
-
-
-
-
-download all the photos and fiels in a one directory and open colck .exe
+simple clock that tells you the time . nothing special but its the first executable file that i made 
